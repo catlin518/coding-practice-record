@@ -5,5 +5,5 @@
 2.if(num[middle] > target)
   right = middle /还是middle-1？
 3.在二分法中，一般都是[left, right](左闭右闭合)；[left, right)(左闭右开)；
-（left, right](左闭右开这种情况**很少**)
+（left, right](左闭右开这种情况很少)
 ```
