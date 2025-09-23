@@ -1,0 +1,5 @@
+#### 二分法查找
+**易错重难点**
+‘’‘
+1.while(left < right )还是left <= right
+2.
