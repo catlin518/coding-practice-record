@@ -7,4 +7,4 @@
 3.在二分法中，一般都是[left, right](左闭右闭合)；[left, right)(左闭右开)；
 （left, right](左闭右开这种情况很少)
 ```
-题目：https://leetcode.cn/problems/binary-search/
+题目：[binary search](https://leetcode.cn/problems/binary-search/)
