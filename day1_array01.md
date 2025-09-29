@@ -25,3 +25,7 @@
 ### 有序数组的平方
 
 数组的很多做法都可以使用双指针的方式去借解题
+这里依旧可以使用双指针的做法解题
+
+
+题目：[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/?envType=problem-list-v2&envId=vabtly8h)
