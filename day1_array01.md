@@ -17,3 +17,11 @@
 2.库函数，如果能够更方便使用，则使用库函数
 
 3.双指针也可以做：分快指针（新数组的内容），慢指针（新数组更新的下标）
+
+4.暴力解法主要是使用下标和长度进行解题
+
+题目：[Remove Element](https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=vabtly8h)
+
+### 有序数组的平方
+
+数组的很多做法都可以使用双指针的方式去借解题
